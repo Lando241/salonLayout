@@ -34,7 +34,9 @@ body {
 .btn,
 .about-btn,
 .card-text,
-.about-us-text {
+.about-us-text,
+.nav-link,
+.nav-btn {
   font-family: "Roboto", sans-serif;
 }
 
