@@ -74,7 +74,7 @@ body {
 /*  *** HERO SECTION *** */
 
 .hero {
-  background: url(/images/salon-background.jpg);
+  background: url(images/salon-background.jpg);
   background-position: center;
   /* background-size: contain; */
   background-repeat: no-repeat;
